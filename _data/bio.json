@@ -1,39 +1,29 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/fidel-perez/fidel-perez.github.io/images/fidel.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Fidel Perez",
+    "label": "Software engineer",
+    "picture": "https://raw.githubusercontent.com/fidel-perez/fidel-perez.github.io/master/images/fidel.png",
+    "email": "fidelperez@gmail.com",
+    "phone": "",
+    "website": "https://fidel-perez.github.io",
+    "summary": "with 'Civil Engineering' as degree:<br>&emsp;passion = 'programming'<br>&emsp;career = passion",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "28032",
+      "city": "Madrid",
+      "countryCode": "ESP",
+      "region": "Madrid"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "fidel-perez",
+        "url": "https://github.com/fidel-perez"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "fidel-perez",
+        "url": "www.linkedin.com/in/fidel-perez"
       }
     ]
   },
